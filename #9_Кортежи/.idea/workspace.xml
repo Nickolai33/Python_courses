@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e5bc7f1-9b07-4d49-ac5b-972d2cf8857a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/blogapi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/blog_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/blog_project/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/blog_project/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/blog_project/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/permissions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../code/blogapi/posts/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="23C5M5zoK30POdocNf3M3n5t10y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5bc7f1-9b07-4d49-ac5b-972d2cf8857a" name="Default Changelist" comment="" />
+      <created>1641225177068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641225177068</updated>
+    </task>
+    <servers />
+  </component>
+</project>
